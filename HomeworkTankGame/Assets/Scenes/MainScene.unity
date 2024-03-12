@@ -6676,22 +6676,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1021754654, guid: 0d6c7df8f5ae1084bbb9380548b4a8ae, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -5.399994
-      objectReference: {fileID: 0}
-    - target: {fileID: 1021754654, guid: 0d6c7df8f5ae1084bbb9380548b4a8ae, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.089561954
-      objectReference: {fileID: 0}
-    - target: {fileID: 1021754654, guid: 0d6c7df8f5ae1084bbb9380548b4a8ae, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1021754654, guid: 0d6c7df8f5ae1084bbb9380548b4a8ae, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
     - target: {fileID: 915773925270756075, guid: 0d6c7df8f5ae1084bbb9380548b4a8ae, type: 3}
       propertyPath: m_Name
       value: Tank
@@ -6739,18 +6723,6 @@ PrefabInstance:
     - target: {fileID: 3775278555917445385, guid: 0d6c7df8f5ae1084bbb9380548b4a8ae, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5791201690514715197, guid: 0d6c7df8f5ae1084bbb9380548b4a8ae, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6115200362317078660, guid: 0d6c7df8f5ae1084bbb9380548b4a8ae, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7030689777093219671, guid: 0d6c7df8f5ae1084bbb9380548b4a8ae, type: 3}
-      propertyPath: m_Enabled
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d6c7df8f5ae1084bbb9380548b4a8ae, type: 3}
