@@ -24,8 +24,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1021754652}
-  m_LocalRotation: {x: 0.089561954, y: -0, z: -0, w: 0.9959813}
-  m_LocalPosition: {x: 0, y: 2.0500002, z: -5.399994}
+  m_LocalRotation: {x: 0.17589757, y: -0, z: -0, w: 0.9844085}
+  m_LocalPosition: {x: 0, y: 3.17, z: -4.88}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 1
-  m_FollowOffset: {x: 0, y: 2.05, z: -5.4}
+  m_FollowOffset: {x: 0, y: 3.17, z: -4.88}
   m_XDamping: 0.6
   m_YDamping: 0.6
   m_ZDamping: 0.6
@@ -428,7 +428,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: bd9566abdbf08834281bfb4ea8b92a5d, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 0.1
   m_Pitch: 1
   Loop: 0
@@ -1141,13 +1141,13 @@ MonoBehaviour:
   _gunAxis: {fileID: 1246447846156012923}
   _gunAngleLimit:
     Min: -25
-    Max: 25
-  _horRotateSpeed: 5
-  _vertRotateSpeed: 0.2
+    Max: 10
+  _horRotateSpeed: 6
+  _vertRotateSpeed: 2
   <FirePoint>k__BackingField: {fileID: 4665532128512177433}
   _controller: {fileID: 127272935728280720}
-  <Velocity>k__BackingField: 100
-  _reloadDelay: 1.5
+  <Velocity>k__BackingField: 150
+  _reloadDelay: 1
   _emitSmokeCount: 3
   _firePower: 120000
   _muzzleEffect: {fileID: 2980671510210298830}
